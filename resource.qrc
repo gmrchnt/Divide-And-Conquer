@@ -1,0 +1,121 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>icons/checkbox_checked.png</file>
+        <file>icons/checkbox_unchecked.png</file>
+        <file>icons/down_arrow.png</file>
+        <file>icons/radio_checked.png</file>
+        <file>icons/radio_unchecked.png</file>
+        <file>icons/up_arrow.png</file>
+        <file>css/qtCSS.qss</file>
+        <file>Fonts/TT Rounds Neue Trial Black Italic.ttf</file>
+        <file>Fonts/TT Rounds Neue Trial Black Italic.ttf.import</file>
+        <file>Fonts/TT Rounds Neue Trial Black.ttf</file>
+        <file>Fonts/TT Rounds Neue Trial Black.ttf.import</file>
+        <file>Fonts/TT Rounds Neue Trial Bold Italic.ttf</file>
+        <file>Fonts/TT Rounds Neue Trial Bold Italic.ttf.import</file>
+        <file>Fonts/TT Rounds Neue Trial Bold.ttf</file>
+        <file>Fonts/TT Rounds Neue Trial Bold.ttf.import</file>
+        <file>Fonts/TT Rounds Neue Trial Compressed Black Italic.ttf</file>
+        <file>Fonts/TT Rounds Neue Trial Compressed Black Italic.ttf.import</file>
+        <file>Fonts/TT Rounds Neue Trial Compressed Black.ttf</file>
+        <file>Fonts/TT Rounds Neue Trial Compressed Black.ttf.import</file>
+        <file>Fonts/TT Rounds Neue Trial Compressed Bold Italic.ttf</file>
+        <file>Fonts/TT Rounds Neue Trial Compressed Bold Italic.ttf.import</file>
+        <file>Fonts/TT Rounds Neue Trial Compressed Bold.ttf</file>
+        <file>Fonts/TT Rounds Neue Trial Compressed Bold.ttf.import</file>
+        <file>Fonts/TT Rounds Neue Trial Compressed DemiBold Italic.ttf</file>
+        <file>Fonts/TT Rounds Neue Trial Compressed DemiBold Italic.ttf.import</file>
+        <file>Fonts/TT Rounds Neue Trial Compressed DemiBold.ttf</file>
+        <file>Fonts/TT Rounds Neue Trial Compressed DemiBold.ttf.import</file>
+        <file>Fonts/TT Rounds Neue Trial Compressed ExtraBold Italic.ttf</file>
+        <file>Fonts/TT Rounds Neue Trial Compressed ExtraBold Italic.ttf.import</file>
+        <file>Fonts/TT Rounds Neue Trial Compressed ExtraBold.ttf</file>
+        <file>Fonts/TT Rounds Neue Trial Compressed ExtraBold.ttf.import</file>
+        <file>Fonts/TT Rounds Neue Trial Compressed ExtraLight Italic.ttf</file>
+        <file>Fonts/TT Rounds Neue Trial Compressed ExtraLight Italic.ttf.import</file>
+        <file>Fonts/TT Rounds Neue Trial Compressed ExtraLight.ttf</file>
+        <file>Fonts/TT Rounds Neue Trial Compressed ExtraLight.ttf.import</file>
+        <file>Fonts/TT Rounds Neue Trial Compressed Italic.ttf</file>
+        <file>Fonts/TT Rounds Neue Trial Compressed Italic.ttf.import</file>
+        <file>Fonts/TT Rounds Neue Trial Compressed Light Italic.ttf</file>
+        <file>Fonts/TT Rounds Neue Trial Compressed Light Italic.ttf.import</file>
+        <file>Fonts/TT Rounds Neue Trial Compressed Light.ttf</file>
+        <file>Fonts/TT Rounds Neue Trial Compressed Light.ttf.import</file>
+        <file>Fonts/TT Rounds Neue Trial Compressed Medium Italic.ttf</file>
+        <file>Fonts/TT Rounds Neue Trial Compressed Medium Italic.ttf.import</file>
+        <file>Fonts/TT Rounds Neue Trial Compressed Medium.ttf</file>
+        <file>Fonts/TT Rounds Neue Trial Compressed Medium.ttf.import</file>
+        <file>Fonts/TT Rounds Neue Trial Compressed Regular.ttf</file>
+        <file>Fonts/TT Rounds Neue Trial Compressed Regular.ttf.import</file>
+        <file>Fonts/TT Rounds Neue Trial Compressed Thin Italic.ttf</file>
+        <file>Fonts/TT Rounds Neue Trial Compressed Thin Italic.ttf.import</file>
+        <file>Fonts/TT Rounds Neue Trial Compressed Thin.ttf</file>
+        <file>Fonts/TT Rounds Neue Trial Compressed Thin.ttf.import</file>
+        <file>Fonts/TT Rounds Neue Trial Condensed Black Italic.ttf</file>
+        <file>Fonts/TT Rounds Neue Trial Condensed Black Italic.ttf.import</file>
+        <file>Fonts/TT Rounds Neue Trial Condensed Black.ttf</file>
+        <file>Fonts/TT Rounds Neue Trial Condensed Black.ttf.import</file>
+        <file>Fonts/TT Rounds Neue Trial Condensed Bold Italic.ttf</file>
+        <file>Fonts/TT Rounds Neue Trial Condensed Bold Italic.ttf.import</file>
+        <file>Fonts/TT Rounds Neue Trial Condensed Bold.ttf</file>
+        <file>Fonts/TT Rounds Neue Trial Condensed Bold.ttf.import</file>
+        <file>Fonts/TT Rounds Neue Trial Condensed DemiBold Italic.ttf</file>
+        <file>Fonts/TT Rounds Neue Trial Condensed DemiBold Italic.ttf.import</file>
+        <file>Fonts/TT Rounds Neue Trial Condensed DemiBold.ttf</file>
+        <file>Fonts/TT Rounds Neue Trial Condensed DemiBold.ttf.import</file>
+        <file>Fonts/TT Rounds Neue Trial Condensed ExtraBold Italic.ttf</file>
+        <file>Fonts/TT Rounds Neue Trial Condensed ExtraBold Italic.ttf.import</file>
+        <file>Fonts/TT Rounds Neue Trial Condensed ExtraBold.ttf</file>
+        <file>Fonts/TT Rounds Neue Trial Condensed ExtraBold.ttf.import</file>
+        <file>Fonts/TT Rounds Neue Trial Condensed ExtraLight Italic.ttf</file>
+        <file>Fonts/TT Rounds Neue Trial Condensed ExtraLight Italic.ttf.import</file>
+        <file>Fonts/TT Rounds Neue Trial Condensed ExtraLight.ttf</file>
+        <file>Fonts/TT Rounds Neue Trial Condensed ExtraLight.ttf.import</file>
+        <file>Fonts/TT Rounds Neue Trial Condensed Italic.ttf</file>
+        <file>Fonts/TT Rounds Neue Trial Condensed Italic.ttf.import</file>
+        <file>Fonts/TT Rounds Neue Trial Condensed Light Italic.ttf</file>
+        <file>Fonts/TT Rounds Neue Trial Condensed Light Italic.ttf.import</file>
+        <file>Fonts/TT Rounds Neue Trial Condensed Light.ttf</file>
+        <file>Fonts/TT Rounds Neue Trial Condensed Light.ttf.import</file>
+        <file>Fonts/TT Rounds Neue Trial Condensed Medium Italic.ttf</file>
+        <file>Fonts/TT Rounds Neue Trial Condensed Medium Italic.ttf.import</file>
+        <file>Fonts/TT Rounds Neue Trial Condensed Medium.ttf</file>
+        <file>Fonts/TT Rounds Neue Trial Condensed Medium.ttf.import</file>
+        <file>Fonts/TT Rounds Neue Trial Condensed Regular.ttf</file>
+        <file>Fonts/TT Rounds Neue Trial Condensed Regular.ttf.import</file>
+        <file>Fonts/TT Rounds Neue Trial Condensed Thin Italic.ttf</file>
+        <file>Fonts/TT Rounds Neue Trial Condensed Thin Italic.ttf.import</file>
+        <file>Fonts/TT Rounds Neue Trial Condensed Thin.ttf</file>
+        <file>Fonts/TT Rounds Neue Trial Condensed Thin.ttf.import</file>
+        <file>Fonts/TT Rounds Neue Trial DemiBold Italic.ttf</file>
+        <file>Fonts/TT Rounds Neue Trial DemiBold Italic.ttf.import</file>
+        <file>Fonts/TT Rounds Neue Trial DemiBold.ttf</file>
+        <file>Fonts/TT Rounds Neue Trial DemiBold.ttf.import</file>
+        <file>Fonts/TT Rounds Neue Trial ExtraBold Italic.ttf</file>
+        <file>Fonts/TT Rounds Neue Trial ExtraBold Italic.ttf.import</file>
+        <file>Fonts/TT Rounds Neue Trial ExtraBold.ttf</file>
+        <file>Fonts/TT Rounds Neue Trial ExtraBold.ttf.import</file>
+        <file>Fonts/TT Rounds Neue Trial ExtraLight Italic.ttf</file>
+        <file>Fonts/TT Rounds Neue Trial ExtraLight Italic.ttf.import</file>
+        <file>Fonts/TT Rounds Neue Trial ExtraLight.ttf</file>
+        <file>Fonts/TT Rounds Neue Trial ExtraLight.ttf.import</file>
+        <file>Fonts/TT Rounds Neue Trial Italic.ttf</file>
+        <file>Fonts/TT Rounds Neue Trial Italic.ttf.import</file>
+        <file>Fonts/TT Rounds Neue Trial Light Italic.ttf</file>
+        <file>Fonts/TT Rounds Neue Trial Light Italic.ttf.import</file>
+        <file>Fonts/TT Rounds Neue Trial Light.ttf</file>
+        <file>Fonts/TT Rounds Neue Trial Light.ttf.import</file>
+        <file>Fonts/TT Rounds Neue Trial Medium Italic.ttf</file>
+        <file>Fonts/TT Rounds Neue Trial Medium Italic.ttf.import</file>
+        <file>Fonts/TT Rounds Neue Trial Medium.ttf</file>
+        <file>Fonts/TT Rounds Neue Trial Medium.ttf.import</file>
+        <file>Fonts/TT Rounds Neue Trial Regular.ttf</file>
+        <file>Fonts/TT Rounds Neue Trial Regular.ttf.import</file>
+        <file>Fonts/TT Rounds Neue Trial Thin Italic.ttf</file>
+        <file>Fonts/TT Rounds Neue Trial Thin Italic.ttf.import</file>
+        <file>Fonts/TT Rounds Neue Trial Thin.ttf</file>
+        <file>Fonts/TT Rounds Neue Trial Thin.ttf.import</file>
+        <file>Fonts/TT Rounds Neue Trial Variable.ttf</file>
+        <file>Fonts/TT Rounds Neue Trial Variable.ttf.import</file>
+    </qresource>
+</RCC>
